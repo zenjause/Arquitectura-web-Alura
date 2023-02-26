@@ -1,0 +1,19 @@
+.banner{
+    position: relative;
+}
+.banner__imagen{
+    width: 100%;
+    height: calc(100vh - 72px);
+}
+.banner__titulo{
+    color: #fdfdfd;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+    position: absolute;
+    left: 50%;
+    text-shadow: 0 4px 4px rgba(0,0,0,0.75);
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}

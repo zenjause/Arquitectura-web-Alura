@@ -1,0 +1,14 @@
+.sobre{
+    padding: 2.5rem;
+    text-align: center;
+}
+.sobre__titulo{
+    color: #DA2B1F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+}
+.sobre__descripcion{
+    color:#8C8888; 
+    font-size: 1.7rem;
+    font-weight: 100;
+}
